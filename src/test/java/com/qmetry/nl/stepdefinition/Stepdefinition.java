@@ -1,7 +1,7 @@
-package com.abnamro.nl.stepdefinition;
+package com.qmetry.nl.stepdefinition;
  
  
-import com.abnamro.nl.Demo.RATestClass;
+import com.qmetry.nl.Demo.RATestClass;
 
 import cucumber.api.java.en.Given;
 
